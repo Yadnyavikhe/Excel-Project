@@ -87,3 +87,47 @@ Identify top-performing cities and products.
 Analyze monthly trends to plan marketing strategies.
 
 Recognize high-performing sales reps and areas needing improvement.
+
+
+Sales Report(Excel project 2)
+
+💼 Sales Report Dashboard (Excel)
+
+This dashboard provides a detailed analysis of product sales performance, helping track sales quantity and revenue across different sellers and months.
+
+📊 Key Insights
+
+Total Quantity Sold: 8,390 units
+
+Total Sales: 2,673 (value units)
+
+Top-Selling Product: Printer (2,587 units)
+
+Top Salesperson: Abc Enterprises (494 sales)
+
+📈 Visual Highlights
+
+Total Sales by Salesperson: Compares seller-wise performance.
+
+Product-Wise Quantity Sold: Displays sales distribution across products.
+
+Month & Seller Filters: Enable dynamic analysis based on selected time period and seller.
+
+🧠 Purpose
+
+To monitor product-wise and salesperson-wise sales performance, identify top-performing products, and support data-driven business strategies.
+
+🛠️ Tools Used
+
+Microsoft Excel (Pivot Tables, Charts, Slicers, Filters)
+
+
+
+
+
+
+
+
+
+
+
