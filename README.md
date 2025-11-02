@@ -8,7 +8,6 @@ The dashboard provides a comprehensive view of sales by city, category, product,
 
 The dashboard integrates PivotTables, charts, slicers, and filters to enable users to interact dynamically with the data.
 
-
 🎯 Objectives
 
 To track and compare sales performance across multiple cities.
@@ -89,7 +88,10 @@ Analyze monthly trends to plan marketing strategies.
 Recognize high-performing sales reps and areas needing improvement.
 
 
-Sales Report(Excel project 2)
+
+
+
+**************Sales Report(Excel project 2)********************
 
 💼 Sales Report Dashboard (Excel)
 
